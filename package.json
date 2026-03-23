@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build && node scripts/postbuild.mjs",
+    "publish:upress": "npm run build && rm -rf public_html && cp -R out public_html && echo 'עכשיו: git add public_html && git commit -m \"עדכון אתר סטטי\" && git push'",
     "start": "next start",
     "lint": "eslint"
   },

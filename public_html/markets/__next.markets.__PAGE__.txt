@@ -1,0 +1,8 @@
+1:"$Sreact.fragment"
+2:I[2971,["/_next/static/chunks/0_hzp~-rwe_69.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/10_w0_ip00vrf.js"],"default"]
+3:I[96614,["/_next/static/chunks/0_hzp~-rwe_69.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/10_w0_ip00vrf.js"],"default"]
+4:I[87211,["/_next/static/chunks/0_hzp~-rwe_69.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/10_w0_ip00vrf.js"],"default"]
+5:I[97367,["/_next/static/chunks/0_hzp~-rwe_69.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","div",null,{"className":"flex gap-6 p-6 max-w-[1600px] mx-auto","children":[["$","div",null,{"className":"flex-1 min-w-0 space-y-6","children":[["$","div",null,{"children":[["$","h1",null,{"className":"text-2xl font-bold text-foreground","children":"שווקים"}],["$","p",null,{"className":"text-muted mt-1","children":"נתוני שוק ומחירי מניות בזמן אמת"}]]}],["$","$L3",null,{}]]}],["$","aside",null,{"className":"w-[340px] flex-shrink-0 hidden xl:block","children":["$","div",null,{"className":"sticky top-20","children":["$","$L4",null,{}]}]}]]}]],[["$","script","script-0",{"src":"/_next/static/chunks/10_w0_ip00vrf.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"7WPsjTrsCs8WLEL8AzTJy"}
+7:null
