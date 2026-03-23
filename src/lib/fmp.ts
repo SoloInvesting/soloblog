@@ -48,11 +48,11 @@ export async function getStockNews(
 }
 
 const INDEX_NAMES: Record<string, string> = {
-  "^GSPC": "S&P 500",
-  "^DJI": "Dow Jones",
-  "^IXIC": "NASDAQ",
-  "^RUT": "Russell 2000",
-  "^VIX": "VIX",
+  "^GSPC": "S&P 500 אס אנד פי",
+  "^DJI": "דאו ג׳ונס",
+  "^IXIC": "נאסד״ק",
+  "^RUT": "ראסל 2000",
+  "^VIX": "מדד הפחד VIX",
 };
 
 export function getIndexDisplayName(symbol: string): string {

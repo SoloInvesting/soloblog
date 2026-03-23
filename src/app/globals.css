@@ -20,7 +20,7 @@
 body {
   background: var(--color-muted-light);
   color: var(--color-foreground);
-  font-family: var(--font-sans), system-ui, sans-serif;
+  font-family: var(--font-sans), system-ui, -apple-system, sans-serif;
 }
 
 ::selection {
@@ -50,22 +50,22 @@ body {
   to { opacity: 1; transform: translateY(0); }
 }
 
-@keyframes slideInRight {
-  from { opacity: 0; transform: translateX(16px); }
+@keyframes slideInLeft {
+  from { opacity: 0; transform: translateX(-16px); }
   to { opacity: 1; transform: translateX(0); }
 }
 
 @keyframes tickerScroll {
   0% { transform: translateX(0); }
-  100% { transform: translateX(-50%); }
+  100% { transform: translateX(50%); }
 }
 
 .animate-fade-in {
   animation: fadeIn 0.4s ease-out forwards;
 }
 
-.animate-slide-in-right {
-  animation: slideInRight 0.4s ease-out forwards;
+.animate-slide-in {
+  animation: slideInLeft 0.4s ease-out forwards;
 }
 
 .animate-ticker {
@@ -103,18 +103,19 @@ body {
 
 .prose p {
   margin-bottom: 1rem;
-  line-height: 1.75;
+  line-height: 1.85;
   color: #374151;
 }
 
 .prose ul, .prose ol {
   margin-bottom: 1rem;
-  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  padding-left: 0;
 }
 
 .prose li {
   margin-bottom: 0.5rem;
-  line-height: 1.75;
+  line-height: 1.85;
   color: #374151;
 }
 
@@ -132,8 +133,10 @@ body {
 }
 
 .prose blockquote {
-  border-left: 4px solid var(--color-primary);
-  padding-left: 1rem;
+  border-right: 4px solid var(--color-primary);
+  border-left: none;
+  padding-right: 1rem;
+  padding-left: 0;
   margin: 1.5rem 0;
   font-style: italic;
   color: var(--color-muted);

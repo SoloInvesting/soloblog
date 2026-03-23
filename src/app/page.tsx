@@ -3,15 +3,10 @@ import FeaturedCarousel from "@/components/FeaturedCarousel";
 import ArticleCard from "@/components/ArticleCard";
 import RightSidebar from "@/components/RightSidebar";
 import { getAllPosts, getFeaturedPosts } from "@/lib/posts";
-import { getMarketIndices, getLatestNews } from "@/lib/fmp";
 
-export default async function Home() {
+export default function Home() {
   const posts = getAllPosts();
   const featured = getFeaturedPosts();
-  const indices = await getMarketIndices();
-  const news = await getLatestNews(10);
-
-  const regularPosts = posts.filter((p) => !p.featured);
 
   return (
     <>
@@ -32,18 +27,14 @@ export default async function Home() {
             ))}
           </div>
 
-          {regularPosts.length === 0 && posts.length === 0 && (
+          {posts.length === 0 && (
             <div className="text-center py-20">
-              <p className="text-muted text-lg">No posts yet. Import your WordPress content to get started.</p>
+              <p className="text-muted text-lg">אין עדיין פוסטים. ייבא את התוכן מוורדפרס כדי להתחיל.</p>
             </div>
           )}
         </div>
 
-        <RightSidebar
-          trendingPosts={posts.slice(0, 4)}
-          indices={indices}
-          news={news}
-        />
+        <RightSidebar trendingPosts={posts.slice(0, 4)} />
       </div>
     </>
   );

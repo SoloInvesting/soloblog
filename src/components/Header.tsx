@@ -5,12 +5,12 @@ import Link from "next/link";
 import { useRouter, usePathname } from "next/navigation";
 
 const CATEGORIES = [
-  { label: "For You", href: "/" },
-  { label: "Investing", href: "/category/investing" },
-  { label: "Technology", href: "/category/technology" },
-  { label: "Economy", href: "/category/economy" },
-  { label: "Crypto", href: "/category/crypto" },
-  { label: "Personal Finance", href: "/category/personal-finance" },
+  { label: "עבורך", href: "/" },
+  { label: "השקעות", href: "/category/investing" },
+  { label: "טכנולוגיה", href: "/category/technology" },
+  { label: "כלכלה", href: "/category/economy" },
+  { label: "קריפטו", href: "/category/crypto" },
+  { label: "פיננסים אישיים", href: "/category/personal-finance" },
 ];
 
 export default function Header() {
@@ -30,13 +30,13 @@ export default function Header() {
       <div className="flex items-center gap-4 px-6 py-3">
         <form onSubmit={handleSearch} className="flex-1 max-w-xl">
           <div className="relative">
-            <SearchIcon className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-muted" />
+            <SearchIcon className="absolute right-3 top-1/2 -translate-y-1/2 w-4 h-4 text-muted" />
             <input
               type="text"
-              placeholder="Search articles, news, stocks..."
+              placeholder="חיפוש מאמרים, חדשות, מניות..."
               value={search}
               onChange={(e) => setSearch(e.target.value)}
-              className="w-full pl-10 pr-4 py-2.5 bg-muted-light rounded-xl text-sm border border-transparent focus:border-primary focus:bg-white focus:outline-none transition-all"
+              className="w-full pr-10 pl-4 py-2.5 bg-muted-light rounded-xl text-sm border border-transparent focus:border-primary focus:bg-white focus:outline-none transition-all"
             />
           </div>
         </form>
@@ -48,7 +48,7 @@ export default function Header() {
               pathname === "/news" ? "text-primary" : "text-muted hover:text-foreground"
             }`}
           >
-            Latest News
+            חדשות אחרונות
           </Link>
           <Link
             href="/markets"
@@ -56,7 +56,7 @@ export default function Header() {
               pathname === "/markets" ? "text-primary" : "text-muted hover:text-foreground"
             }`}
           >
-            Markets
+            שווקים
           </Link>
         </div>
       </div>

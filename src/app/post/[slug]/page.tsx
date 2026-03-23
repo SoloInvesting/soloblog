@@ -2,7 +2,6 @@ import { notFound } from "next/navigation";
 import Image from "next/image";
 import Link from "next/link";
 import { getPostBySlug, getAllPosts } from "@/lib/posts";
-import { getMarketIndices, getLatestNews } from "@/lib/fmp";
 import RightSidebar from "@/components/RightSidebar";
 import Header from "@/components/Header";
 
@@ -18,9 +17,9 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: Props) {
   const { slug } = await params;
   const post = getPostBySlug(slug);
-  if (!post) return { title: "Post Not Found" };
+  if (!post) return { title: "הדף לא נמצא" };
   return {
-    title: `${post.title} — Solo`,
+    title: `${post.title} — סולו`,
     description: post.excerpt,
     openGraph: {
       title: post.title,
@@ -36,12 +35,10 @@ export default async function PostPage({ params }: Props) {
   if (!post) notFound();
 
   const posts = getAllPosts();
-  const indices = await getMarketIndices();
-  const news = await getLatestNews(8);
 
-  const date = new Date(post.publishedAt).toLocaleDateString("en-US", {
-    month: "long",
+  const date = new Date(post.publishedAt).toLocaleDateString("he-IL", {
     day: "numeric",
+    month: "long",
     year: "numeric",
   });
 
@@ -55,9 +52,9 @@ export default async function PostPage({ params }: Props) {
             className="inline-flex items-center gap-2 text-sm text-muted hover:text-foreground transition-colors mb-6"
           >
             <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
-              <path strokeLinecap="round" strokeLinejoin="round" d="M15 19l-7-7 7-7" />
+              <path strokeLinecap="round" strokeLinejoin="round" d="M9 5l7 7-7 7" />
             </svg>
-            Back to Home
+            חזרה לדף הראשי
           </Link>
 
           <div className="bg-white rounded-2xl border border-border overflow-hidden">
@@ -77,7 +74,7 @@ export default async function PostPage({ params }: Props) {
                 <span className="px-3 py-1 bg-primary-light text-primary text-sm font-semibold rounded-full">
                   {post.category}
                 </span>
-                <span className="text-sm text-muted">{post.readTime} min read</span>
+                <span className="text-sm text-muted">{post.readTime} דק׳ קריאה</span>
               </div>
 
               <h1 className="text-3xl md:text-4xl font-bold text-foreground mb-6 leading-tight">
@@ -121,8 +118,6 @@ export default async function PostPage({ params }: Props) {
 
         <RightSidebar
           trendingPosts={posts.filter((p) => p.slug !== slug).slice(0, 4)}
-          indices={indices}
-          news={news}
         />
       </div>
     </>

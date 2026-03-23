@@ -14,14 +14,14 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Solo — Investing, Markets & Financial Insights",
+  title: "סולו — השקעות, שווקים ותובנות פיננסיות",
   description:
-    "Your go-to source for investing strategies, market analysis, financial news, and expert insights to help you build wealth.",
+    "המקור שלך לאסטרטגיות השקעה, ניתוח שווקים, חדשות פיננסיות ותובנות מומחים שיעזרו לך לבנות עושר.",
   openGraph: {
-    title: "Solo — Investing, Markets & Financial Insights",
-    description: "Your go-to source for investing strategies, market analysis, and financial news.",
+    title: "סולו — השקעות, שווקים ותובנות פיננסיות",
+    description: "המקור שלך לאסטרטגיות השקעה, ניתוח שווקים וחדשות פיננסיות.",
     url: "https://www.solo.life",
-    siteName: "Solo",
+    siteName: "סולו",
     type: "website",
   },
 };
@@ -33,12 +33,13 @@ export default function RootLayout({
 }>) {
   return (
     <html
-      lang="en"
+      lang="he"
+      dir="rtl"
       className={`${geistSans.variable} ${geistMono.variable} antialiased`}
     >
       <body className="min-h-screen">
         <Sidebar />
-        <main className="ml-[72px] min-h-screen">{children}</main>
+        <main className="mr-[72px] min-h-screen">{children}</main>
       </body>
     </html>
   );

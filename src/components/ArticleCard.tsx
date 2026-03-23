@@ -9,12 +9,16 @@ interface ArticleCardProps {
   variant?: "default" | "compact";
 }
 
-export default function ArticleCard({ post, variant = "default" }: ArticleCardProps) {
-  const date = new Date(post.publishedAt).toLocaleDateString("en-US", {
-    month: "short",
+function formatDate(dateStr: string) {
+  return new Date(dateStr).toLocaleDateString("he-IL", {
     day: "numeric",
+    month: "short",
     year: "numeric",
   });
+}
+
+export default function ArticleCard({ post, variant = "default" }: ArticleCardProps) {
+  const date = formatDate(post.publishedAt);
 
   if (variant === "compact") {
     return (
@@ -55,7 +59,7 @@ export default function ArticleCard({ post, variant = "default" }: ArticleCardPr
           fill
           className="object-cover group-hover:scale-105 transition-transform duration-500"
         />
-        <div className="absolute top-3 left-3">
+        <div className="absolute top-3 right-3">
           <span className="px-3 py-1 bg-white/90 backdrop-blur-sm text-xs font-semibold rounded-full text-primary">
             {post.category}
           </span>
@@ -84,7 +88,7 @@ export default function ArticleCard({ post, variant = "default" }: ArticleCardPr
         </p>
 
         <div className="flex items-center justify-between mt-4 pt-3 border-t border-border">
-          <span className="text-xs text-muted">{post.readTime} min read</span>
+          <span className="text-xs text-muted">{post.readTime} דק׳ קריאה</span>
           <div className="flex items-center gap-2">
             <button
               onClick={(e) => e.preventDefault()}

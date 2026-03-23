@@ -68,13 +68,13 @@ export default function FeaturedCarousel({ posts }: FeaturedCarouselProps) {
         </div>
 
         <button
-          onClick={prev}
+          onClick={next}
           className="absolute left-4 top-1/2 -translate-y-1/2 w-10 h-10 bg-white/10 hover:bg-white/20 backdrop-blur-sm rounded-full flex items-center justify-center text-white transition-all opacity-0 group-hover:opacity-100"
         >
           <ChevronLeftIcon className="w-5 h-5" />
         </button>
         <button
-          onClick={next}
+          onClick={prev}
           className="absolute right-4 top-1/2 -translate-y-1/2 w-10 h-10 bg-white/10 hover:bg-white/20 backdrop-blur-sm rounded-full flex items-center justify-center text-white transition-all opacity-0 group-hover:opacity-100"
         >
           <ChevronRightIcon className="w-5 h-5" />

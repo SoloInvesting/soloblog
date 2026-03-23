@@ -5,21 +5,21 @@ import Image from "next/image";
 import { usePathname } from "next/navigation";
 
 const NAV_ITEMS = [
-  { href: "/", icon: HomeIcon, label: "Home" },
-  { href: "/category/investing", icon: TrendingIcon, label: "Investing" },
-  { href: "/category/technology", icon: TechIcon, label: "Technology" },
-  { href: "/category/economy", icon: EconomyIcon, label: "Economy" },
-  { href: "/news", icon: NewsIcon, label: "News" },
-  { href: "/markets", icon: MarketsIcon, label: "Markets" },
+  { href: "/", icon: HomeIcon, label: "ראשי" },
+  { href: "/category/investing", icon: TrendingIcon, label: "השקעות" },
+  { href: "/category/technology", icon: TechIcon, label: "טכנולוגיה" },
+  { href: "/category/economy", icon: EconomyIcon, label: "כלכלה" },
+  { href: "/news", icon: NewsIcon, label: "חדשות" },
+  { href: "/markets", icon: MarketsIcon, label: "שווקים" },
 ];
 
 export default function Sidebar() {
   const pathname = usePathname();
 
   return (
-    <aside className="fixed left-0 top-0 z-40 h-screen w-[72px] bg-white border-r border-border flex flex-col items-center py-5 gap-2">
+    <aside className="fixed right-0 top-0 z-40 h-screen w-[72px] bg-white border-l border-border flex flex-col items-center py-5 gap-2">
       <Link href="/" className="mb-4">
-        <Image src="/logo.png" alt="Solo" width={40} height={40} className="rounded-lg" />
+        <Image src="/logo.png" alt="סולו" width={40} height={40} className="rounded-lg" />
       </Link>
 
       <nav className="flex flex-col items-center gap-1 flex-1">
@@ -41,7 +41,7 @@ export default function Sidebar() {
               title={item.label}
             >
               <item.icon className="w-5 h-5" />
-              <span className="absolute left-full ml-3 px-2.5 py-1 bg-foreground text-white text-xs rounded-md opacity-0 group-hover:opacity-100 pointer-events-none transition-opacity whitespace-nowrap">
+              <span className="absolute right-full mr-3 px-2.5 py-1 bg-foreground text-white text-xs rounded-md opacity-0 group-hover:opacity-100 pointer-events-none transition-opacity whitespace-nowrap">
                 {item.label}
               </span>
             </Link>
