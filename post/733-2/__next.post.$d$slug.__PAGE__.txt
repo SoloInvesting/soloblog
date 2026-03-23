@@ -1,0 +1,496 @@
+1:"$Sreact.fragment"
+2:I[2971,["/_next/static/chunks/0_hzp~-rwe_69.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0zumocpdh-cm-.js"],"default"]
+3:I[22016,["/_next/static/chunks/0_hzp~-rwe_69.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0zumocpdh-cm-.js"],""]
+4:I[5500,["/_next/static/chunks/0_hzp~-rwe_69.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0zumocpdh-cm-.js"],"Image"]
+a:I[3749,["/_next/static/chunks/0_hzp~-rwe_69.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0zumocpdh-cm-.js"],"default"]
+b:I[87211,["/_next/static/chunks/0_hzp~-rwe_69.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0zumocpdh-cm-.js"],"default"]
+c:I[5321,["/_next/static/chunks/0_hzp~-rwe_69.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0zumocpdh-cm-.js"],"default"]
+11:I[97367,["/_next/static/chunks/0_hzp~-rwe_69.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+5:T15a0,<!-- wp:paragraph -->
+<p>ברוח התקופה בשוק המניות, הנה סיפור קצר ונחמד על חברה שהבטיחה הרבה וקיימה מעט. מעט מאוד. החברה נסחרה בשיאה בשווי של מעל מיליארד דולר וסיימה את דרכה בשווי של עשרות אלפי דולרים. רעיון מבטיח, מייסד של נטפליקס, הנפקה ענקית, מיליוני משתמשים בשנה. אז מה קרה שם? קצר ומלמד, מבטיח!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>תכירו את MOVIEPASS, שירות שמאפשר לכל לקוח לצפות בסרט אחד ביום בבית הקולנוע המחיר של 20$ (בהמשך 15$ ואז אפילו 10$) לחודש! האפליקציה מגניבה, השירות יעיל ומהיר. אתה משלם פעם בחודש סכום נמוך ויכול להנות מסרט כל יום! וכל זה בימי הזוהר של הקולנוע (2017-2018)! מה יכול להשתבש?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://pbs.twimg.com/media/FLBLl6QXIAQAzGv?format=jpg&amp;name=900x900" alt="Image"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>לחברה הצטרפו כשלושה מיליון לקוחות תוך שנה! היה דיבור על שת"פ עם AMC הגדולה והכל היה נשמע מאוד מבטיח. היתה רק בעיה אחת. המודל העסקי היה גרוע. עד כמה גרוע? החברה הפסידה תוך שנה חצי מיליארד דולר. יכולים לנחש למה?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>הסיבה מאוד פשוטה, החברה ציפתה לצמיחה חסרת תקדים לשירות שהיא מציעה. המנכ"ל הילל את החברה והשירות, לא התייחס לכל נורות האזהרה שהועלו ע"י אנליסטים. המשתמשים הגיעו אבל לא במספרים הלא הגיוניים שההנהלה רצתה. המצב הלך והדרדר מהר מאוד...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>מנית החברה שעלתה בשיאה ל-35$ נחתכה בחדות עשרות אחוזים כל יום כאשר עוד ועוד משקיעים מבינים שיש כאן עסק בלי שום מודל או תוכנית הגיונית לעתיד. החברה המשיכה לשרוף את המזומנים ואת המשקיעים שהפסידו מעל 90% תוך זמן קצר.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://pbs.twimg.com/media/FLBMoHoXEAcQS5x?format=jpg&amp;name=900x900" alt="Image"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>עכשיו מגיע החלק המעניין שחשוב לי שתכירו - במיוחד בתקופה כמו שאנחנו חווים היום. אנחנו רואים הרבה חברות נחתכות בעשרות אחוזים ומה שאנחנו שומעים לא מעט זה: "אל דאגה הכל יעלה חזרה, זה הזמן לקנות!" האמירה הזאת אמנם נכונה לחלק ניכר מהמניות (גם אני כותב את זה לא מעט)...<br>אבל אסור לטעות, זה שמניה ירדה ב-90% לא אומר שהיא לא תוכל לרדת בעוד 90% מהר מאוד (כן לצערינו בעולם המניות החשבון הזה הגיוני). יש הרבה מניות שירדו בתקופה האחרונה 50-90% וימשיכו לרדת עוד עשרות אחוזים בחודשים הקרובים. ככה זה עובד. יש חברות שפשוט לא מצליחות להתקיים.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>נחזור לסיפור שלנו, מנית החברה המשיכה לרדת עוד ונסחרה בשווי של דולרים בודדים. מה קרה אז? ספקולציות... ועוד קצת ספקולציות. המנכ"ל דיבר ואמר שהכל בסדר. חברת האם קנתה עוד קצת מניות, עשו ריוורס ספליט (במטרה לעלות את שווי המניה באופן מלאכותי) ועוד מספר תרגילים כדי להציל את המניה.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>נחשו מה? זה לא עזר. חברת הקולנוע AMC הודיעה אל הקמת פלטפורמה מתחרה ובאמת סגרה את הסיפור. המניה שנסחרה בדולרים בודדים נסחרה אחרי מספר שבועות בסנטים בודדים. משקיעים הפסידו מאות אלפי דולרים ומוסדיים הפסידו מליונים.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>בא לכם לדעת בכמה המניה נסחרת כיום? (המניה היא של חברת האם שרכשה את מרבית המניות של MOVIEPASS בזמנו). תמונה ששווה אלף דולר:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://pbs.twimg.com/media/FLBORCoXIAAl1Pq?format=jpg&amp;name=900x900" alt="Image"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>אל תלכו עם עם הראש בקיר, תלמדו על החברות שאתם משקיעים בהם. </strong><br><strong>אל תתעלמו מתמרורי אזהרה. אל תפחדו לקטוע הפסדים ואל תגידו לעצמכם "אני אחכה גם 5 שנים ולא אצא בהפסד כאן". </strong></p>
+<!-- /wp:paragraph -->0:{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","div",null,{"className":"flex gap-6 p-6 max-w-[1600px] mx-auto","children":[["$","article",null,{"className":"flex-1 min-w-0 animate-fade-in","children":[["$","$L3",null,{"href":"/","className":"inline-flex items-center gap-2 text-sm text-muted hover:text-foreground transition-colors mb-6","children":[["$","svg",null,{"className":"w-4 h-4","fill":"none","viewBox":"0 0 24 24","stroke":"currentColor","strokeWidth":2,"children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M9 5l7 7-7 7"}]}],"חזרה לדף הראשי"]}],["$","div",null,{"className":"bg-white rounded-2xl border border-border overflow-hidden","children":[["$","div",null,{"className":"relative aspect-[21/9]","children":[["$","$L4",null,{"src":"https://pbs.twimg.com/media/FLBLl6QXIAQAzGv?format=jpg&amp;name=900x900","alt":"הסיפור מאחורי MOVIEPASS","fill":true,"className":"object-cover","priority":true}],["$","div",null,{"className":"absolute inset-0 bg-gradient-to-t from-black/50 to-transparent"}]]}],["$","div",null,{"className":"p-8 md:p-12 max-w-3xl","children":[["$","div",null,{"className":"flex items-center gap-3 mb-4","children":[["$","span",null,{"className":"px-3 py-1 bg-primary-light text-primary text-sm font-semibold rounded-full","children":"השקעות בשוק ההון"}],["$","span",null,{"className":"text-sm text-muted","children":[3," דק׳ קריאה"]}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl font-bold text-foreground mb-6 leading-tight","children":"הסיפור מאחורי MOVIEPASS"}],["$","div",null,{"className":"flex items-center gap-4 mb-8 pb-8 border-b border-border","children":[["$","$L4",null,{"src":"/logo.png","alt":"סולו","width":44,"height":44,"className":"rounded-full"}],["$","div",null,{"children":[["$","p",null,{"className":"font-semibold text-foreground","children":"סולו"}],["$","p",null,{"className":"text-sm text-muted","children":"7 בפברואר 2022"}]]}]]}],["$","div",null,{"className":"prose max-w-none","dangerouslySetInnerHTML":{"__html":"$5"}}],"$L6"]}]]}]]}],"$L7"]}]],["$L8"],"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0qmSIQt6T4FHX9dSOsrOR"}
+6:["$","div",null,{"className":"flex flex-wrap gap-2 mt-10 pt-8 border-t border-border","children":[["$","span","בורסה",{"className":"px-3 py-1.5 bg-muted-light text-muted text-sm rounded-lg","children":["#","בורסה"]}],["$","span","השקעות",{"className":"px-3 py-1.5 bg-muted-light text-muted text-sm rounded-lg","children":["#","השקעות"]}],["$","span","שוק ההון",{"className":"px-3 py-1.5 bg-muted-light text-muted text-sm rounded-lg","children":["#","שוק ההון"]}]]}]
+d:T270b,<!-- wp:paragraph -->
+<p>חברת בלאקסקיי (BlackSky (BKSY עוסקת במודיעין מהחלל - ספקית הדמאות לוויין עם חזרתיות גבוהה ורזולוציות מצוינות (שהולכות להשתפר משמעותית). אם לא הבנתם מה כתבתי הכל בסדר, נסביר הכל. בלאקסקיי היא עוד מנית חלל שאני אוהב וכותב עליה, אחרי<a href="https://solo.life/rocket-lab-%d7%94%d7%97%d7%91%d7%a8%d7%94-%d7%a9%d7%9e%d7%95%d7%91%d7%99%d7%9c%d7%94-%d7%90%d7%aa-%d7%9e%d7%94%d7%a4%d7%9b%d7%aa-%d7%a9%d7%99%d7%92%d7%95%d7%a8%d7%99-%d7%94%d7%9c%d7%95%d7%95%d7%99/"> רוקטלאב שעלתה לראשונה בבלוג ב-8$</a> למניה ונסחרת ב-70$ ופלאנט שעלתה לראשונה גם כן בבלוג ב-4$ ונסחרת ב-20$. אכתוב כבר מההתחלה שבלאקסקיי מסוכנת מאוד, אפילו יותר מרוקטלאב ופלאנט, כי היא בשיא שלב המסחור של המוצרים שלה ויש סבירות לא קטנה שהיא תמשיך לדלל משקיעים - עם זאת, אני צופה לה חוזים חדשים רבים שיעזרו להאצת הצמיחה.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"backgroundColor":"luminous-vivid-amber"} -->
+<p class="has-luminous-vivid-amber-background-color has-background"><strong><strong>הפוסט הינו תקציר בלבד לניתוח המלא - לקריאת הפוסט המלא יש להירשם <a href="https://go.solo.life/">לפלטפורמת Go Solo</a></strong></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><br>בלאקסקיי מפעילה פלטפורמה ראשונה מסוגה המספקת מודיעין מבוסס-חלל בזמן אמת, לקבלת החלטות אסטרטגיות מהירה ומשופרת. החברה מפעילה מערך לוויינים (Constellation) בעל תדירות ביקור גבוהה, המנטר מיקומים אסטרטגיים, נכסים כלכליים ואירועים ברחבי העולם בשקיפות מלאה. היתרון היחסי של החברה טמון ביכולת הקצאת משימות (Tasking) בשיהוי נמוך, המאפשרת הפקת תמונות ברזולוציה גבוהה וגבוהה מאוד במהירות ובעלויות פורצות דרך.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p> כדי להבין את הערך של בלאקסקיי, יש להכיר את המדדים המגדירים את איכות המודיעין מהחלל. החברה פועלת במסלול לווייני נמוך (Low Earth Orbit - LEO), בגובה של כ-500 קילומטרים, המאפשר צילום חד בשיהוי נמוך. שני המדדים המרכזיים הם רזולוציה קרקעית (Ground Sample Distance - GSD), המגדירה את רמת הפירוט של כל פיקסל בתמונה, ותדירות ביקור (Revisit Rate), המציינת את מספר הפעמים שהלוויין עובר מעל נקודה מסוימת ביממה. בעוד שחברות מסורתיות מתמקדות בצילום סטטי, בלאקסקיי מתמקדת במודיעין "טקטי" – היכולת לזהות תנועה ושינויים תוך שעות בודדות מרגע הפקודה.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>מוצרי החברה:</strong><br><br>כיום, ליבת הפעילות מבוססת על<strong> לווייני הדור השני (Gen-2)</strong>, המספקים רזולוציה של כ-50 עד 80 סנטימטרים. המעבר המתוכנן במהלך 2026 <strong>ללווייני הדור השלישי (Gen-3)</strong> יהווה קפיצה טכנולוגית משמעותית, עם רזולוציה של 35 סנטימטרים. רמה זו מאפשרת זיהוי מדויק של פרטים קטנים כגון סוגי דגמים של רכבים וציוד צבאי. בנוסף, לווייני ה-Gen-3 יכללו תקשורת לייזר (Optical Inter-Satellite Links), שתאפשר העברת נתונים ישירה בין לוויינים בחלל מבלי להמתין למעבר מעל תחנת קרקע, ובכך תקצר עוד יותר את זמן אספקת המידע.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>פלטפורמת Spectra: המוח המנתח</strong> פלטפורמת Spectra היא מנוע ה-SaaS (תוכנה כשירות) של החברה, המהווה את המבדל התחרותי המרכזי שלה. מדובר במערכת מבוססת בינה מלאכותית המבצעת "היתוך נתונים" (Data Fusion) – שילוב של צילומי הלוויין עם מקורות מידע חיצוניים כמו אותות AIS של ספינות, חיישני IoT ודיווחי מודיעין גלוי (OSINT). המערכת מסוגלת לזהות אובייקטים באופן אוטומטי ולהציף התראות למשתמשים בתוך פחות מ-90 דקות בממוצע, מה שהופך את הדאטה הגולמי למוצר מודיעיני בעל ערך אסטרטגי ושולי רווח גבוהים.<br><br></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5972,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://solo.life/wp-content/uploads/2026/01/image-1024x572.png" alt="" class="wp-image-5972"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><br><br><strong>נתונים פיננסיים:<br></strong><br>הכנסות החברה לשנת 2025 הן 102 מיליון דולר, עם צמיחה עקבית ויציבה. החברה מתקרבת לנקודת איזון תפעולית, כאשר מדד ה-EBITDA המתואם נע סביב אפס. עם צבר הזמנות (Backlog) של כ-320 מיליון דולר וקופת מזומנים של כ-145 מיליון דולר, בלאקסקיי נהנית מיציבות פיננסית יחסית. למה יחסית? כי החברה צריכה הרבה כסף וסביר מאוד לדעתי שכבר בחציון השנתי הם יחזרו לגייס עוד. החוזים המרכזיים של החברה כוללים את הסכם ה-EOCL ארוך הטווח מול ה-NRO (משרד הסיור הלאומי האמריקאי), שיתופי פעולה עם כוח החלל (Space Force) וחוזי מסגרת עם נאס"א. נתון משמעותי נוסף שהחברה הצהירה עליו שכ-50% מההכנסות הן מלקוחות גלובאליים מחוץ לארה״ב. <br><br></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5974,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://solo.life/wp-content/uploads/2026/01/image-2-1024x535.png" alt="" class="wp-image-5974"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><br></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5973,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://solo.life/wp-content/uploads/2026/01/image-1-1024x567.png" alt="" class="wp-image-5973"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><br><strong>בלאקסקיי פועלת בשוק תחרותי מול מספר שחקנים מרכזיים:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Planet Labs:</strong> מתמקדת בסריקה רחבה ויומיומית, לעומת המיקוד הטקטי והמהיר של בלאקסקיי.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Maxar:</strong> מציעה רזולוציה גבוהה מאוד אך במודל כבד ויקר יותר.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Satellogic:</strong> שואפת להוזיל עלויות ייצור אך חסרה את העומק של בלאקסקיי בחוזים ביטחוניים אמריקאיים.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>SpaceX Starshield:</strong> האיום המשמעותי ביותר, המנצל את עלויות השיגור הנמוכות של ספייס-אקס לבניית מערך ריגול ממשלתי.<strong> זה האירוע שהכי מטריד אותי כרגע.</strong></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>בניתוח ה-SWOT, החוזקות של החברה הן מהירות הניתוח ופלטפורמת ה-AI, בעוד החולשות נובעות מתלות גבוהה בתקציבי ביטחון. ההזדמנויות טמונות בחדירה לשווקים אזרחיים כמו ביטוח ושרשרת אספקה וקבלת חוזים מגופי ביטחון נוספים בעולם (כבר יש התקדמות משמעותית בנושא). בנושא לסיכונים, כמו כל חברת חלל - עיכובים ובתקלות בשיגורים. בנוגע לקונסטלציה החדשה, היכולת להשלים את פריסת לווייני ה-Gen-3 ללא תקלות, ותלות בספקי שיגור חיצוניים. סיכון משמעותי נוסף. היא התחרות העזה שפורטה לעיל. במידה והחברה תעמוד ביעדיה הטכנולוגיים ותעבור לרווחיות מלאה, הערכת השווי הנוכחית עשויה לעבור עדכון כלפי מעלה. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|black"}}}},"backgroundColor":"luminous-vivid-amber","textColor":"black","fontSize":"medium"} -->
+<p class="has-black-color has-luminous-vivid-amber-background-color has-text-color has-background has-link-color has-medium-font-size"><strong>הפוסט הינו תקציר בלבד לניתוח המלא - לקריאת הפוסט המלא יש להירשם <a href="https://go.solo.life/">לפלטפורמת Go Solo</a></strong></p>
+<!-- /wp:paragraph -->7:["$","aside",null,{"className":"w-[340px] flex-shrink-0 space-y-5 hidden xl:block","children":[["$","$La",null,{}],["$","$Lb",null,{}],["$","div",null,{"className":"bg-white rounded-2xl border border-border p-5","children":[["$","h3",null,{"className":"text-sm font-bold text-foreground mb-4","children":"מאמרים פופולריים"}],["$","div",null,{"className":"space-y-1","children":[["$","$Lc","87",{"post":{"id":87,"slug":"חברת-הלוויינות-blacksky-bksy","title":"חברת הלוויינות (BlackSky (BKSY","excerpt":"חברת בלאקסקיי (BlackSky (BKSY עוסקת במודיעין מהחלל - ספקית הדמאות לוויין עם חזרתיות גבוהה ורזולוציות מצוינות (שהולכות להשתפר משמעותית). אם לא הבנתם מה כתבתי הכל בסדר, נסביר הכל. בלאקסקיי היא עוד מנית חלל שאני אוהב וכותב עליה, אחרי רוקטלאב שעלתה לראשו...","content":"$d","coverImage":"https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=800&q=80","author":{"name":"סולו","avatar":"/logo.png"},"category":"השקעות בשוק ההון","tags":[],"publishedAt":"2026-01-03T17:34:30.000Z","readTime":4,"featured":true},"variant":"compact"}],"$Le","$Lf","$L10"]}]]}]]}]
+8:["$","script","script-0",{"src":"/_next/static/chunks/0zumocpdh-cm-.js","async":true}]
+9:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+e:["$","$Lc","86",{"post":{"id":86,"slug":"תחרות-ההשקעות-של-2026-יוצאת-לדרך","title":"תחרות ההשקעות של 2026 יוצאת לדרך!","excerpt":"תחרות ההשקעות לשנת 2026 יוצאת לדרך! והפעם עם אתר אינטרנט ייעודי שישדרג את החוויה :) מזומנים להירשם (מהיר מאוד) ולבנות את התיק שלכם. אפשר לעדכן את התיק עד ה-1 בינואר. ניתן לבחור מניות ישראליות, אמריקאיות והפעם הכנסתי גם קצת סחורות (זהב וכסף) וקריפטו (...","content":"<!-- wp:paragraph -->\n<p>תחרות ההשקעות לשנת 2026 יוצאת לדרך! והפעם עם אתר אינטרנט ייעודי שישדרג את החוויה :) <br>מזומנים להירשם (מהיר מאוד) ולבנות את התיק שלכם. אפשר לעדכן את התיק עד ה-1 בינואר. <br>ניתן לבחור מניות ישראליות, אמריקאיות והפעם הכנסתי גם קצת סחורות (זהב וכסף) וקריפטו (ביטקוין, איתריום וסולאנה)! <br>אפשר לבחור בין 5 ל-15 מניות כשאף מניה לא יכולה להוות יותר מ-20% מהתיק. <br><strong>עוד חידוש - השנה יתחרו מולנו גם מנועי ה-LLM המובילים (ג׳מיני, צ׳אט, קוון וגרוק), ניתן לראות את התיק שהם בחרו כבר עכשיו באתר</strong>.<strong><br>5 המקומות הראשונים יקבלו שנה במתנה לפלטפורמת Go Solo. <br>התחרות להעשרה והנאה בלבד, אין המלצה לפעולה בניירות ערך, הפרויקט ללא מטרות רווח. </strong><br><br>אשמח לפידבקים ורעיונות לשיפור, וגם לשיתוף הפוסט - המטרה להגיע השנה ליותר מ-1000 משתתפים! <br><br><strong><a href=\"https://comp.solo.life/\">להצטרפות</a></strong></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p></p>\n<!-- /wp:paragraph -->","coverImage":"https://images.unsplash.com/photo-1642790106117-e829e14a795f?w=800&q=80","author":{"name":"סולו","avatar":"/logo.png"},"category":"השקעות בשוק ההון","tags":[],"publishedAt":"2025-12-06T19:30:42.000Z","readTime":1,"featured":true},"variant":"compact"}]
+14:T471d,<!-- wp:paragraph -->
+<p>נפתח את הפוסט באמירה של מנכ"ל החברה שגרמה לי להסתכל לראשונה על המניה:<br><strong>"<em>Our primary financial goal is to deliver a $250 million revenue quarter by the end of 2027</em>"<br></strong>מה מעניין במשפט הזה? שאת שנת 25' החברה הולכת לסיים באזור ה-250-300 מיליון דולר הכנסות. זה אומר שתוך שנתיים פלוס מינוס המנכ"ל צופה הכנסות של 1B$ בשנה. צמיחה משמעותית ביותר ומהגבוהות ביותר בסקטור שאינו טכנולוגי.<br>עכשיו חשוב לי לכתוב כבר בהתחלה - הסקטור של החברה הוא פארמה, סקטור בעייתי עם הרבה מקומות שהחברה יכולה לפשל בהן, מאוד קשה להשיג חפיר משמעותי בסקטור הזה והתחרות בשמיים. <br>עם זאת, בואו נתחיל ונראה למה אני אוהב את החברה והחלטתי לצרף אותה לאחרונה לתיק שלי.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">על החברה</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>הרו הלת' (Harrow Health) היא לא עוד חברת תרופות – היא מביאה גישה רעננה וממוקדת לתחום בריאות העיניים. החברה מתמחה ברוקחות תרופות בהתאמה אישית, מתוך אמונה שלכל מטופל מגיע טיפול שמותאם בדיוק בשבילו ובמחיר נגיש. רוב הפעילות נעשית דרך ImprimisRx, בית מרקחת מיוחד שפונה לאלפי רופאי עיניים ואופטומטריסטים ברחבי ארה"ב, ומספק להם תרופות שמותאמות אישית – לעיתים בזול יותר מהאלטרנטיבות הרגילות.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>הסוד של הרו טמון בגישה הישירה שלה לרופאים, מה שמבטל הרבה מהביורוקרטיה והעלויות שמאפיינות את תעשיית התרופות הגדולה. כך הם גם מצליחים להוזיל עלויות וגם מספקים תרופות מהר ויעיל יותר. היא עוסקת גם שיווק תרופות מאושרות FDA לטיפול במחלות עיניים נפוצות כמו עין יבשה, השקעה במו"פ לפיתוח טיפולים חדשניים, והשקעות אסטרטגיות לשיתופי פעולה בתחום. <br><br><strong>החברה מספקת חשיפה ישירה לשוק האופתלמולוגיה (רפואת עיניים) בארה”ב, שנמצא בצמיחה ארוכת טווח עקב התבגרות האוכלוסייה והתגברות השכיחות של מחלות עיניים כמו עין יבשה. השימוש הגובר במסכים צפוי להמשיך ולתרום למגמה זו. בנוסף, העלייה בשכיחות של מצבים בריאותיים כמו יתר לחץ דם, סוכרת והשמנת יתר חמורה מובילה לכך שתופעות עיניות (אוקולריות) ימשיכו להתרבות.</strong><br></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5937,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://solo.life/wp-content/uploads/2025/09/image-3.png" alt="" class="wp-image-5937"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:image {"id":5935,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://solo.life/wp-content/uploads/2025/09/image-2.png" alt="" class="wp-image-5935"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">מוצרי החברה</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>החברה מציעה כיום מעל 59 מוצרים מרשם – בינהם:<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>VEVYE</strong>: לטיפול בעין יבשה, הנתמך בתוכנית VAFA שמאפשרת למטופלים לקבלו במחיר מוזל במיוחד.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>BYOOVIZ ו-OPUVIZ</strong>: לטיפול במחלות רשתית.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>IHEEZO</strong>: הרדמה עינית.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>TRIESENCE</strong>: סטרואיד לטיפול בדלקות.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>מוצרים נוספים בקטגוריית "Buy &amp; Bill", "Specialty Prescription" ועוד.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:image {"id":5940,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://solo.life/wp-content/uploads/2025/09/image-6.png" alt="" class="wp-image-5940"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>VEVYE הוא אחד מהמוצרים המרכזיים והחדשניים של Harrow לטיפול בעין יבשה (Dry Eye Disease):</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>זהו הפתרון הראשון והיחיד המבוסס על ציקלוספורין שאינו דורש מים (water-free), שמיועד לטיפול בתסמיני עין יבשה.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>בניסויים פרה-קליניים, הנשא של VEVYE הצליח להחדיר פי 22 יותר ציקלוספורין לקרנית לעומת Restasis (מוצר מוביל מתחרה).</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>תחילת פעילותו מהירה בהשוואה לתרופות דומות, והוא מציג שיפור קליני ומשמעותי כבר לאחר 15 יום מהשימוש, עם שיפור שמחזיק לתקופה של עד 56 שבועות.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>התרופה נסבלת מבחינת כאב — 99.8% מהמטופלים דיווחו על כאב קל מאוד או לא הרגישו כאב בכלל בעת השימוש.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>פוסט של לקוח מרוצה מהשימוש בתרופה:<br></strong><br></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5942,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full"><img src="https://solo.life/wp-content/uploads/2025/09/image-8.png" alt="" class="wp-image-5942"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><br><strong>ל-VEVYE יש פוטנציאל להפוך למנוע הכנסה עיקרי  ולתפוס נתח שוק משמעותי. בשיחת המשקיעים האחרונה התייחס המנכ"ל מארק באום לכך ש-VEVYE הוא ללא ספק הנכס הכי יקר של Harrow, ואף אמר: "לגבי VEVYE, אנו מאמינים שאנו על מסלול להכניס לפחות 100 מיליון דולר מהכנסות VEVYE השנה."</strong><br><br>מנגד, חשוב לציין שהתזה השורית מתבססת במידה רבה על מסחור מוצלח של VEVYE. אימוץ איטי מהצפוי, כישלון בהבטחת כיסוי ביטוחי רחב מתמשך, או בעיות ייצור (חלק מהתרופות עדיין מיוצרות בחו"ל) עלולים לפגוע קשות בהכנסות וברווחיות בעתיד.<br></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5939,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://solo.life/wp-content/uploads/2025/09/image-5.png" alt="" class="wp-image-5939"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>עוד נתון שחשוב להכיר הוא אחזקה של 46% בחברת Melt Pharmaceuticals, הנתון הזה מבחינתי הוא בגדר בונוס, יש הרבה אמירות של החברה שרומזות על כך שהם רוצים לרכוש את כל המניות של החברה בעתיד הקרוב. זה שווה מעקב, אבל בגלל הסיכון הגבוה של חברה ומוצר מסוג זה אני לא מחשיב את זה בשיקולים שלי בהשקעה בחברה כרגע. הנה נתונים על החברה והמוצר:<br></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>MELT-300 הוא מועמד תרופתי לסדציה דרך הפה (Sublingual), שאינו דורש עירוי (non-IV) ואינו אופיואידי, עבור פרוצדורות רפואיות קצרות טווח.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>MELT-300 מוגן בפטנט בארה״ב ובשווקים גלובליים עיקריים</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>יש למוצר פוטנציאל להשפיע על מעל 100 מיליון פרוצדורות קצרות</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>נתוני שלב 3 קליני מוצלחים פורסמו ברבעון הרביעי של 2024</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>הגשת NDA (בקשה לאישור FDA בארה"ב) צפויה במחצית הראשונה של 2026</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>אם יאושר על ידי ה-FDA, MELT-300 יחליף את MKO Melt – מוצר מורכב הנמכר כיום על ידי החברה הבת ImprimisRx של Harrow (150,000 יחידות נמכרו ב-2024)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>ל-Harrow יש גם זכות לקבל תמלוגים בשיעור 5%</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">הנהלה ותמריצים</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>החברה מנוהלת על ידי צוות הנהלה בעל ניסיון רחב בתחום הפארמה לעיניים. זהו גורם קריטי להתמודדות עם המורכבויות של פיתוח תרופות, אישור ה-FDA והשקות מסחריות. <br><strong>מארק באום משמש כיושב ראש הדירקטוריון והמנכ"ל.</strong> הרקע שלו הוא בתחום הפיננסי והמשפטי, והשפיע רבות על גישת הצמיחה של החברה באמצעות רכישות. הוא ייסד מספר חברות נוספות, כולל Eton Pharmaceuticals (ETON), Surface Opthalmics ו-Melt Pharmaceuticals. באום חבר בדירקטוריון קרן האופטלמולוגיה, שפועלת עם רופאי עיניים וארגונים מקצועיים על מנת להרחיב ולהעשיר את תחום ההכשרה האופתלמולוגית, בדגש על מדינות בעלות משאבים מוגבלים ואזורים מוחלשים.<br><br><strong>עוד אירוע שאני מאוד אוהב בחברה - התמריצים להנהלה, המנכ"ל יקבל כ-890 אלף מניות (כ-3% מהחברה, כ-90 מיליון דולר לפני מס) אם המניה תגיע ל-100 דולר, אך לא יקבל כלום אם המניה לא תעבור את רף ה-50 דולר. באופן דומה, יקבל סמנכ"ל הכספים תגמול גדול של כ-40 מיליון דולר במניות אם המניה תגיע ל-100 דולר. </strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">נתונים פיננסיים</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":5941,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://solo.life/wp-content/uploads/2025/09/image-7-1024x407.png" alt="" class="wp-image-5941"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>החברה נסחרת בשווי שוק של 1.64 מילארד דולר מציגה צמיחה מדהימה בהכנסות ברבעונים האחרונים ועוקפת את כל המתחרות מהסקטור בהפרש משמעותי שלא צפוי להצטמצם ברבעונים הקרובים.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5943,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://solo.life/wp-content/uploads/2025/09/image-9-1024x551.png" alt="" class="wp-image-5943"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>מבחינת התחייבויות מול נכסים, זאת תמיד נקודה שחשוב לשים אליה ל במניות מסוג זה. במיוחד בחברה שצומחת כל-כך מהר ומחפשת להתרחב ולבצע רכישות נוספות. לחברה התחייבויות של 300 מיליון דולר ו-50 מיליון דולר מזומן נכון לרבעון האחרון. שימו לב אני מדגיש שוב - בחברה כזאת יכולים להיות גיוסים ודילולים לטובת צמיחה, ואם הצמיחה לא מספקת - מחיר המניה יפגע בהתאם. זו השקעה בסיכון גבוה מאוד.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5944,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://solo.life/wp-content/uploads/2025/09/image-10-1024x447.png" alt="" class="wp-image-5944"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><br><strong>GROSS MARGIN (רווח גולמי): 74.6%</strong><br>זהו שיעור הרווח מהמכירות לאחר עלויות הייצור בלבד (לפני הוצאות כלליות ומנהלה). ממוצע 3-5 שנים הוא 72%, ועשור אחורה 63%, כלומר ניכרת שיפור ביעילות וביכולת החברה להרוויח מהמוצרים לפני הוצאות נוספות.<br><strong>NET MARGIN (רווח נקי): -4.5%</strong><br>שיעור הרווח לאחר כל ההוצאות והמיסים. המאזן עדיין שלילי, אך מציג שיפור ניכר לעומת 3-10 שנים אחורה (אז עמד על מינוס 15%-39%).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5945,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://solo.life/wp-content/uploads/2025/09/image-11-1024x464.png" alt="" class="wp-image-5945"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>לגבי מחיר המניה, אחרי הרבעון האחרון של 24' המשקיעים הורידו את מחיר המניה ל-20$. היום המניה נראית הרבה  יותר טוב אחרי שני רבעונים מרשימים מאוד והיא נסחרת על 44$.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><br><strong>גרף המניה מול S&amp;P500</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+    
+    
+    <title>Centered TradingView Chart</title>
+    <style>
+        /* 1. This wrapper creates a flex container to force centering */
+        .chart-wrapper {
+            display: flex;
+            justify-content: center;
+            width: 100%;
+            margin: 20px 0; /* Adds some space above and below */
+        }
+
+        /* 2. This container sets the actual size of the chart */
+        .chart-container {
+            width: 100%;
+            max-width: 980px; /* The chart's maximum width */
+            height: 610px;    /* The chart's height */
+        }
+    </style>
+</head>
+<body>
+
+    <div class="chart-wrapper">
+        <div class="chart-container">
+            <div class="tradingview-widget-container" style="height:100%; width:100%;">
+                <div class="tradingview-widget-container__widget" style="height:100%; width:100%;"></div>
+                <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+                {
+                "autosize": true,
+                "allow_symbol_change": false,
+                "calendar": false,
+                "details": false,
+                "hide_side_toolbar": true,
+                "hide_top_toolbar": false,
+                "hide_legend": true,
+                "hide_volume": true,
+                "hotlist": false,
+                "interval": "D",
+                "locale": "he_IL",
+                "save_image": false,
+                "style": "2",
+                "symbol": "NASDAQ:HROW",
+                "theme": "light",
+                "timezone": "Asia/Jerusalem",
+                "backgroundColor": "#ffffff",
+                "gridColor": "rgba(46, 46, 46, 0)",
+                "watchlist": [],
+                "withdateranges": false,
+                "range": "12M",
+                "compareSymbols": [
+                    {
+                    "symbol": "AMEX:SPY",
+                    "position": "NewPriceScale"
+                    }
+                ],
+                "studies": []
+                }
+                </script>
+            </div>
+            </div>
+    </div>
+
+</body>
+</html>
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>בגלל שהרבה מכם אוהבים את הנתון הזה, מצרף גם את המלצות האנליסטים על המניה (אתם יודעים שאני שונא אותם).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5946,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://solo.life/wp-content/uploads/2025/09/image-12-1024x155.png" alt="" class="wp-image-5946"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>אין בכתוב המלצה לקנייה או מכירה של ניירות ערך.<br><strong>הכותב מחזיק במניות החברה, התמונות והנתונים מתוך אתר החברה ומצגת המשקיעים ואתר <a href="https://www.alphaspread.com?ref=mwzlzwi">AlphaSpread</a></strong></p>
+<!-- /wp:paragraph -->f:["$","$Lc","85",{"post":{"id":85,"slug":"ניתוח-מניית-harrow-hrow","title":"ניתוח מניית Harrow $HROW","excerpt":"נפתח את הפוסט באמירה של מנכ\"ל החברה שגרמה לי להסתכל לראשונה על המניה:\"Our primary financial goal is to deliver a $250 million revenue quarter by the end of 2027\"מה מעניין במשפט הזה? שאת שנת 25' החברה הולכת לסיים באזור ה-250-300 מיליון דולר הכנסות. זה...","content":"$14","coverImage":"https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80","author":{"name":"סולו","avatar":"/logo.png"},"category":"השקעות בשוק ההון","tags":[],"publishedAt":"2025-09-20T14:08:37.000Z","readTime":6,"featured":true},"variant":"compact"}]
+15:T1fc0,<!-- wp:paragraph -->
+<p>מלחמת שבבי הבינה המלאכותית בעיצומה: גוגל עם ה-<strong>TPU</strong>, אמזון (AWS) יחד עם Anthropic עם ה-<strong>Trainium</strong>, ו-OpenAI עם ברודקום (Broadcom) עם שבבי <strong>ASIC</strong> מותאמים אישית. כולם מנסים להפחית את התלות באנבידיה (NVIDIA). השאלה מי ינצח תלויה במערכות התוכנה, ביכולות הייצור וביעילות האנרגטית של השבבים.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">יחידות עיבוד טנזור (TPU) של גוגל: הבחירה החדשה בעולם הבינה המלאכותית</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>בעולם הטכנולוגיה, שתי חברות מובילות את הדרך בתחום השבבים המתקדמים: <strong>גוגל</strong> ו<strong>אנבידיה</strong> (NVIDIA). במשך שנים, השבבים של אנבידיה, שנקראים <strong>מעבדים גרפיים (GPU)</strong>, היו הבחירה המועדפת לאימון מודלים של בינה מלאכותית. אבל לאחרונה, שבבים מיוחדים של גוגל, שנקראים <strong>יחידות עיבוד טנזור (TPU)</strong>, הפכו להיות אלטרנטיבה חזקה מאוד. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>GPU (מעבד גרפי)</strong>: שבב שתוכנן במקור לטפל בגרפיקה (משחקי מחשב, סרטים וכו'), אבל בגלל המבנה שלו הוא גם מצוין לביצוע חישובים מסובכים שצריך בבינה מלאכותית.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>TPU (יחידת עיבוד טנזור)</strong>: שבב שגוגל פיתחה <strong>במיוחד</strong> למשימות של בינה מלאכותית. המילה "טנזור" (Tensor) מתייחסת לדרך שבה המידע מעובד במודלים של למידת מכונה – בצורה של מטריצות (לוחות מספרים) ענקיות.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>TPU תוכנן בדיוק למטרה הזו, ולכן הוא מצליח להתחרות ואפילו להצטיין מול ה-GPU של אנבידיה, גם ב<strong>מהירות</strong> וגם ב<strong>עלות-תועלת</strong>. לדוגמה, הביצועים של ה-TPU יכולים להגיע ל-42.5 <strong>אקסה-פלופס</strong> (Eexaflops), שזה מספר עצום שמתאר את יכולת העיבוד של השבב.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5902,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://solo.life/wp-content/uploads/2025/09/ChatGPT-Image-Sep-8-2025-07_16_52-PM-1024x683.png" alt="" class="wp-image-5902"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">למה כולם מתחילים להתעניין ב-TPU?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list {"ordered":true,"start":1} -->
+<ol start="1" class="wp-block-list"><!-- wp:list-item -->
+<li><strong>קצב אימוץ גבוה</strong>: בששת החודשים האחרונים, הפעילות של מפתחים וחוקרים עם שבבי TPU ב"ענן של גוגל" (Google Cloud) גדלה בכ-96%. זה מראה שגם חברות מחוץ לגוגל עצמה רואות את הפוטנציאל העצום של השבבים האלו.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>דור חדש ומתקדם</strong>: הדור השישי של ה-TPU, שנקרא <strong>Trillium</strong>, כבר זוכה לביקוש גבוה. כעת, גוגל מתכוננת להשיק את הדור השביעי, <strong>Ironwood</strong>, שנבנה במיוחד כדי להתמודד עם <strong>הסקה בקנה מידה גדול</strong>.<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>הסקה (Inference)</strong>: זהו השלב האחרון והחשוב ביותר בתהליך העבודה עם בינה מלאכותית. אחרי שמאמנים מודל על כמויות עצומות של נתונים, מגיע שלב ההסקה, שבו המודל <strong>באמת משתמש בידע שרכש</strong>. למשל, כשאתם מבקשים מצ'אט בוט לענות על שאלה, הוא משתמש בשלב ההסקה כדי לתת לכם תשובה.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>תמיכה טובה יותר</strong>: בעבר, היה מסובך להשתמש ב-TPU, אבל היום, עם שיפורים בתוכנה כמו <strong>JAX</strong> (ספריית קוד שפותחה על ידי גוגל), הרבה יותר קל להריץ מודלים בקנה מידה גדול. לכן, שחקניות גדולות בתחום הבינה המלאכותית כמו <strong>Anthropic</strong> ו-<strong>xAI</strong> בוחנות את האפשרות להשתמש בשבבים של גוגל.</li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">התחרות מול אנבידיה</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>גוגל לא רק מפתחת שבבים, אלא גם פועלת באופן אסטרטגי כדי להכניס אותם לשוק. היא החלה לשתף פעולה עם חברות "ענן" (שירותים המספקים כוח מחשוב לחברות אחרות), כמו <strong>Fluidstack</strong>, כדי להציע את ה-TPU ללקוחות נוספים.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>בדרך זו, גוגל נכנסת לתחרות ישירה עם אנבידיה, שעד כה הייתה המלכה הבלתי מעורערת בתחום, ומוכרת את השבבים שלה לחברות כמו <strong>Crusoe</strong> ו-<strong>CoreWeave</strong>. המהלך של גוגל משנה את חוקי המשחק ויוצר תחרות בריאה שצפויה לקדם את כל תחום הבינה המלאכותית.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">השפעה על אנבידיה וגוגל</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>המהלכים של גוגל מהווים אתגר משמעותי עבור אנבידיה. במשך שנים, אנבידיה נהנתה ממעמד דומיננטי בשוק, והתלות של חברות הבינה המלאכותית בשבבים שלה הייתה גבוהה מאוד. כעת, כשה-TPU הופך לאלטרנטיבה מובילה, <strong>אנבידיה עשויה למצוא את עצמה תחת לחץ תחרותי גובר</strong>. היא תיאלץ אולי להאיץ את הפיתוחים שלה, להציע מחירים אטרקטיביים יותר או לשפר את התמיכה בתוכנה כדי לשמור על מעמדה.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>מצד שני, עבור גוגל, ההצלחה של ה-TPU מחזקת את מעמדה בתחום הבינה המלאכותית. לא רק שהיא מפתחת מודלי AI מובילים, אלא שהיא גם מספקת את <strong>התשתית הטכנולוגית העוצמתית שמאפשרת את הפיתוח שלהם</strong>. מכיוון שהיא מציעה את ה-TPU כשירות בענן, היא פותחת ערוץ הכנסות חדש וחשוב ומבססת את עצמה כשחקנית מפתח גם בתחום החומרה. בסופו של דבר, התחרות הזו מועילה לכל התעשייה, שכן היא מאיצה את קצב החדשנות ומסייעת להפוך את הבינה המלאכותית לנגישה ויעילה יותר.</p>
+<!-- /wp:paragraph -->10:["$","$Lc","84",{"post":{"id":84,"slug":"מלחמת-השבבים-של-הבינה-המלאכותית","title":"מלחמת השבבים של הבינה המלאכותית","excerpt":"מלחמת שבבי הבינה המלאכותית בעיצומה: גוגל עם ה-TPU, אמזון (AWS) יחד עם Anthropic עם ה-Trainium, ו-OpenAI עם ברודקום (Broadcom) עם שבבי ASIC מותאמים אישית. כולם מנסים להפחית את התלות באנבידיה (NVIDIA). השאלה מי ינצח תלויה במערכות התוכנה, ביכולות הייצור...","content":"$15","coverImage":"https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=800&q=80","author":{"name":"סולו","avatar":"/logo.png"},"category":"השקעות בשוק ההון","tags":[],"publishedAt":"2025-09-08T16:17:24.000Z","readTime":3,"featured":true},"variant":"compact"}]
+13:null
